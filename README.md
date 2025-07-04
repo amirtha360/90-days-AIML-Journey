@@ -21,7 +21,7 @@ Each day includes tasks using all four libraries.
 
 | Day | NumPy Task        | Pandas Task         | Matplotlib Task  | Seaborn Task      |
 |-----|-------------------|---------------------|------------------|-------------------|
-| 1   | `np.array()`      | `pd.read_csv()`     | `plt.plot()`     | `sns.countplot()` |
+| 1   | `np.array()`      | `pd.DataFrame()`    | `plt.plot()`     | `sns.get_dataset_names()` |
 | 2   | `np.arange()`     | `df.head()`         | `plt.bar()`      | `sns.boxplot()`   |
 | 3   | `np.reshape()`    | `df.describe()`     | `plt.hist()`     | `sns.heatmap()`   |
 | 4   | `np.mean()`       | `df['col']`         | `plt.scatter()`  | `sns.scatterplot()`|
